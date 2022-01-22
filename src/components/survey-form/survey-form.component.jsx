@@ -327,7 +327,7 @@ const SurveyForm = () => {
                     </p>
 
                     <p  className='pb-3'>
-                      Our hands-off coaching program is a $499.97 investment <span className='blue-text'><Link target={"_blank"} to="https://www.dreamjobuniversity.com">www.dreamjobuniversity.com</Link></span>. 
+                      Our hands-off salary boost coaching program is $499.97.<span className='blue-text'><Link target={"_blank"} to="https://www.dreamjobuniversity.com">www.dreamjobuniversity.com</Link></span>. 
                     </p>
 
                     <p className='pb-3'>
