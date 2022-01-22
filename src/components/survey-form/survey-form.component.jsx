@@ -270,7 +270,7 @@ const SurveyForm = () => {
               {
                 formData.currentjob === "No"?
               <p className='pt-5 text-sm'>
-                  At this time, the Dream Job Accelerator may not be the best option for you. If you request a raise at your current job and do NOT receive it, then we encourage our participants to enter the job market, get job offers, and quit their old jobs once they have a new opportunity in place. It is suggested that a person be willing to leave their current company if their goal is higher pay.
+                  At this time, the Salary Boost Accelerator may not be the best option for you. If you request a raise at your current job and do NOT receive it, then we encourage our participants to enter the job market, get job offers, and quit their old jobs once they have a new opportunity in place. It is suggested that a person be willing to leave their current company if their goal is higher pay.
               </p>
               :
               null
@@ -367,7 +367,7 @@ const SurveyForm = () => {
            
                   <div>
                     <p className='pt-5 pb-3 text-sm'>
-                      Great! At this time, we offer 3 salary coaching programs to get you the pay you deserve:
+                      Great! At this time, we invite you to schedule a time on our calendar to assess your fit for your program, to increase your pay by 25% in under 90-days. Please email us at support@upmysalary.com.
                     </p>
                     <ul>
                   <li>
@@ -377,7 +377,7 @@ const SurveyForm = () => {
                     Group Coaching: Work with Zana’s team and take part in weekly group sessions to ensure your success to making more in your 9-5!
                   </li>
                   <li>
-                    One-on-One Coaching: Work directly with Zana! Schedule free consult here: <Link className='blue-text' target="_blank" to="https://calendly.com/zana-m">https://calendly.com/zana-m</Link>
+                    One-on-One or Group Coaching: Work directly with Zana! Schedule free consult here: <Link className='blue-text' target="_blank" to="https://calendly.com/zana-m">https://calendly.com/zana-m</Link>
                   </li>
                 </ul>
                   </div>
